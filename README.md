@@ -1,1 +1,1 @@
-# Basic Startup Landing Page
+This is a basic startup landing page I created when first learning about web development
